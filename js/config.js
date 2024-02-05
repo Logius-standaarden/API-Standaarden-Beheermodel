@@ -1,27 +1,40 @@
 var respecConfig = {
   alternateFormats: [ { 
         "label" : "pdf",
-        "uri" : "Logius-Beheermodel.pdf"
+        "uri" : "API-Standaarden-Beheermodel.pdf"
       } ],
   authors: [ { 
-        "mailto" : "bomos@logius.nl",
-        "name" : "Logius",
-        "url" : "https://logius.nl/standaarden"
+        "mailto" : "Martin.plas@logius.nl",
+        "name" : "Martin van der Plas",
+        "company" : "Logius",
+        "companyURL" : "https://logius.nl/standaarden"
       } ],
   editors: [ { 
+        "mailto" : "api@logius.nl",
+        "name" : "Logius Afdeling standaarden"
+      }, 
+      { 
         "company" : "Logius",
-        "name" : "Edwin Wisse",
-        "url" : "https://logius.nl/standaarden"
+        "companyURL" : "https://logius.nl/standaarden",
+        "name" : "Alexander Green"
+      }, 
+      { 
+        "company" : "Logius",
+        "companyURL" : "https://logius.nl/standaarden",
+        "name" : "Edwin Wisse"
+      }, 
+      { 
+        "company" : "Logius",
+        "companyURL" : "https://logius.nl/standaarden",
+        "name" : "Peter Haasnoot"
       } ],
-  github: "https://github.com/Logius-standaarden/Logius-Beheermodel",
+  github: "https://github.com/Logius-standaarden/API-Standaarden-Beheermodel",
   nl_markdownCodeClass: "code",
   nl_markdownTableClass: "dkkvs",
-  previousPublishDate: "2020-12-31",
-  previousPublishVersion: "0.1",
-  pubDomain: "logius",
-  publishDate: "2023-09-23",
+  pubDomain: "api",
+  publishDate: "2024-02-02",
   publishVersion: "1.0",
-  shortName: "beheermodel",
+  shortName: "APIBeheermodel",
   specStatus: "WV",
   specType: "HR"
 };
