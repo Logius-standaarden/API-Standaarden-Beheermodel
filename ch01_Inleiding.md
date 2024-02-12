@@ -55,9 +55,9 @@ De statussen van de verschillende API standaarden zijn in de standaarden zelf va
 
 | Gremium | status | toelichting |
 | ------- | ------ | ----------- |
-|Technisch Overleg | Concept akkoord | Operationeel gezien wordt deze nieuwe versie van het beheermodel besproken in de Technische overleggen die er voor de verschillende standaarden zijn. De concepten die in dit beheermodel worden gebundeld zijn op zich allemaal al akkoord. het gehele definitieve document nog niet. |
-|Mido|||
-|Forum Standaardisatie|||
+|Technisch Overleg | Concept akkoord | Operationeel gezien wordt deze nieuwe versie van het beheermodel besproken in de Technische overleggen die er voor de verschillende standaarden zijn. De concepten die in dit beheermodel worden gebundeld zijn op zich allemaal al akkoord. Het gehele definitieve document nog niet. |
+|Mido|In behandeling|Het algemene Logius beheermodel waarop dit beheermodel is gebaseerd is al akkoord. De vraag ligt voor bij de PTGU om ook voor de API standaarden dit beheermodel te gaan volgen.|
+|Forum Standaardisatie|Deels in behandeling|De ADR wordt als eerste opnieuw aangeboden bij het Forum en daar zal het beheermodel in worden meegenomen. Daarna volgt OAuth en dan OIDC|
 
 ## BOMOS
 
