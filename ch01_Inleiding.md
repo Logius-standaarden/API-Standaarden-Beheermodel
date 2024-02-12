@@ -30,7 +30,10 @@ Deze helpen organisaties die nieuwe API’s ontwikkelen voor Nederlandse overhed
 | [NLGov API Design Rules (ADR)](https://forumstandaardisatie.nl/open-standaarden/rest-api-design-rules) | [ADR v1 (definitief)](https://gitdocumentatie.logius.nl/publicatie/api/adr/) | [ADR v2.0.0-rc.2 (versie ter vaststelling)](https://logius-standaarden.github.io/API-Design-Rules/) | [API-Design-Rules](https://github.com/Logius-standaarden/API-Design-Rules) |
 | [NLGov OAuth 2.0 profile (OAuth)](https://forumstandaardisatie.nl/open-standaarden/nl-gov-assurance-profile-oauth-20) | [OAuth v1 (definitief)](https://gitdocumentatie.logius.nl/publicatie/api/oauth/) | [OAuth v1.1.0 (werkversie)](https://logius-standaarden.github.io/OAuth-NL-profiel/) | [OAuth-NL-profiel](https://github.com/Logius-standaarden/OAuth-NL-profiel) |
 | [NLGov OpenID Connect profile (OIDC)](https://forumstandaardisatie.nl/open-standaarden/nl-gov-assurance-profile-oidc) | [OIDC v1.0.1 (definitief)](https://gitdocumentatie.logius.nl/publicatie/api/oidc/) | [OIDC v1.0.1 (werkversie)](https://logius-standaarden.github.io/OIDC-NLGOV/) | [OIDC-NLGOV](https://github.com/Logius-standaarden/OIDC-NLGOV) |
+| Kennisplatform API's modulen|[Stabiele modules, 21 december 2023](https://github.com/Geonovum/KP-APIs/blob/master/README.md) | nvt | [Kennisplatform APIs](https://github.com/Geonovum/KP-APIs) |
 | CloudEvents|[Vastgestelde versie, 5 juli 2022](https://gitdocumentatie.logius.nl/publicatie/notificatieservices/CloudEvents-NL/) | [Werkversie, 5 juli 2022](https://gitdocumentatie.logius.nl/publicatie/notificatieservices/CloudEvents-NL/) | [NL-GOV-profile-for-CloudEvents](https://github.com/Logius-standaarden/NL-GOV-profile-for-CloudEvents) |
+| Verwerkingenlogging|Nog in ontwikkeling | @@@ link vng | nntb |
+
 
 ### Nut
 
