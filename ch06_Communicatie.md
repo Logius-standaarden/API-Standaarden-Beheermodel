@@ -12,7 +12,7 @@ Als een nieuwe versie van de API Standaarden de status "In Gebruik" heeft, worde
 Logius publiceert altijd de volledige specificaties van de standaarden op een deel van zijn website. Daarnaast wordt een persbericht uitgegeven, waarin de publicatie van nieuwe releases van de standaarden wordt aangekondigd.  
 Aanvullend publiceert Logius alle genoemde documentatie zoals genoemd bij [Documentatie](#documentatie).
 
-> een goed overzicht van alle versies van de standaarden die we beheren is beschikbaar op onze [Github omgeving](https://github.com/Logius-standaarden)
+> Een practisch overzicht van alle versies van de standaarden die we beheren is beschikbaar op onze [Github omgeving](https://github.com/Logius-standaarden)
 
 ## Klachtenafhandeling
 
