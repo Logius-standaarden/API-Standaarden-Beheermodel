@@ -2,8 +2,8 @@
 
 ## Promotie
 
-De API Standaarden worden via verschillende kanalen gepromoot. Ten eerste via het Kennisplatform API&#39;s als onderdeel van de Nederlandse API-strategie. Naast communicatie op de website van het kennisplatform, organiseert het platform regelmatig vrij toegankelijke bijeenkomsten.  
-Daarnaast hebben meerdere API Standaarden de zogenaamde &#39;pas toe of leg uit&#39; -status van Forum Standaardisatie. Dit betekent dat Forum Standaardisatie het gebruik van deze standaarden niet alleen actief promoot, maar in veel gevallen zelfs hard voorschrijft.  
+De API Standaarden worden via verschillende kanalen gepromoot. Ten eerste via het Kennisplatform API's als onderdeel van de Nederlandse API-strategie. Naast communicatie op de website van het kennisplatform, organiseert het platform regelmatig vrij toegankelijke bijeenkomsten.  
+Daarnaast hebben meerdere API Standaarden de zogenaamde 'pas toe of leg uit' -status van Forum Standaardisatie. Dit betekent dat Forum Standaardisatie het gebruik van deze standaarden niet alleen actief promoot, maar in veel gevallen zelfs hard voorschrijft.  
 Tot slot is Logius promotor van de standaarden. Zowel intern voor de toepassing van de standaarden in Logius voorzieningen als extern, door andere partijen te informeren en adviseren over de mogelijkheden van de standaarden.
 
 ## Publicatie
