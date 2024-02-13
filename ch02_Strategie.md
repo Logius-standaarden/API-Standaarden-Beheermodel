@@ -10,9 +10,9 @@ Met de API Standaarden wil de Nederlandse overheid interoperabiliteit bevorderen
 Dit maakt uiteindelijk dat componenten en systemen onderling effectief gegevens uit kunnen wisselen. Zowel horizontaal in één voorziening binnen één situatie als verticaal tussen voorzieningen in verschillende situaties en tussen organisaties.
 Deze doelstelling wordt onderschreven door een breed scala aan partijen die deelnemen aan het API Kennisplatform, waar de ontwikkeling van de standaard zijn oorsprong heeft. 
 
-De API Standaarden worden bestendigd door het Forum Standaardisatie en het OverheidsBrede Beleidsoverhed Digitale Overheid (OBDO), die meerdere API Standaarden al hebben opgenomen op de zogenaamde ‘pas toe of leg uit’-lijst met andere standaarden die interoperabiliteit bevorderen [<span class="underline">zie ook de basisinformatie van het Forum Standaardisatie</span>](https://www.forumstandaardisatie.nl/basisinformatie).
+De API Standaarden worden bestendigd door het Forum Standaardisatie en het OverheidsBrede Beleidsoverhed Digitale Overheid (OBDO), die meerdere API Standaarden al hebben opgenomen op de zogenaamde ‘pas toe of leg uit’-lijst met standaarden die interoperabiliteit bevorderen [<span class="underline">zie ook de basisinformatie van het Forum Standaardisatie</span>](https://www.forumstandaardisatie.nl/basisinformatie).
 
-De toetsingsprocedure voor opname van een standaard op _pas toe of leg uit_ lijst bestaat uit de volgende stappen:
+De toetsingsprocedure voor opname van een standaard op de _pas toe of leg uit_ -lijst bestaat uit de volgende stappen:
 
 1. Aanmelding
 2. Intake
