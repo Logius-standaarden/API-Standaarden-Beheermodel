@@ -25,7 +25,7 @@ Een overzicht van alle API Standaarden is gepubliceerd in deze infographic:
 
 ### Internationale, Europese en nationale standaardisatiegemeenschap
 
-De ADR-Standaard volgt de ontwikkeling van internationale standaarden (zoals bijvoorbeeld de HTTP standaarden van het IETF) in het algemeen. Meer specifiek volgen de specialisten van Logius en de leden van de TAG de standaarden waarnaar wordt gerefereerd in de API Standaarden en bespreken deze ontwikkelingen ook in het Technisch Overleg. Indien relevant worden op basis van de internationale ontwikkelingen rfc&#39;s opgesteld om de API Standaarden aan te passen, verbeteren of actualiseren. Onderstaand is het overzicht overgenomen van de standaarden waaraan wordt gerefereerd in de ADR:
+De ADR-Standaard volgt de ontwikkeling van internationale standaarden (zoals bijvoorbeeld de HTTP standaarden van het IETF) in het algemeen. Meer specifiek volgen de specialisten van Logius en de leden van de TAG de standaarden waarnaar wordt gerefereerd in de API Standaarden en bespreken deze ontwikkelingen ook in het Technisch Overleg. Indien relevant worden op basis van de internationale ontwikkelingen rfc's opgesteld om de API Standaarden aan te passen, verbeteren of actualiseren. Onderstaand is het overzicht overgenomen van de standaarden waaraan wordt gerefereerd in de ADR:
 
 1. **[OPENAPIS]** <br>
 [_OpenAPI Specification_](https://www.openapis.org/). Darrell Miller; Jeremy Whitlock; Marsh Gardiner; Mike Ralphson; Ron Ratovsky; Uri Sarid; Tony Tam; Jason Harmon. OpenAPI Initiative. URL: [https://www.openapis.org/](https://www.openapis.org/)
@@ -42,19 +42,19 @@ De ADR-Standaard volgt de ontwikkeling van internationale standaarden (zoals bij
 
 ### Samenwerking met andere beheerorganisaties
 
-#### Kennisplatform API&#39;s
+#### Kennisplatform API's
 
-Kennisplatform API&#39;s is een initiatief van Geonovum, Bureau Forum Standaardisatie, Kamer van Koophandel, VNG Realisatie en Logius. Het doel van het Kennisplatform is om de kennis over het toepassen van API&#39;s uit te wisselen en de aanpak bij verschillende organisaties op elkaar af te stemmen en waar nodig te standaardiseren. In het kennisplatform wordt gezamenlijk gekeken naar strategische en tactische vraagstukken rond het ontwikkelen van API&#39;s door de overheid en gebruik van deze API&#39;s buiten en binnen de overheid. Dit vanuit de gedachte dat we in een digitale samenleving eenvoudig met elkaar moeten kunnen samenwerken.  
+Kennisplatform API's is een initiatief van Geonovum, Bureau Forum Standaardisatie, Kamer van Koophandel, VNG Realisatie en Logius. Het doel van het Kennisplatform is om de kennis over het toepassen van API's uit te wisselen en de aanpak bij verschillende organisaties op elkaar af te stemmen en waar nodig te standaardiseren. In het kennisplatform wordt gezamenlijk gekeken naar strategische en tactische vraagstukken rond het ontwikkelen van API's door de overheid en gebruik van deze API's buiten en binnen de overheid. Dit vanuit de gedachte dat we in een digitale samenleving eenvoudig met elkaar moeten kunnen samenwerken.  
 
-De API Standaarden komen voort uit de Nederlandse API Strategie die beheerd wordt door het Kennisplatform API&#39;s en zijn veelal door het kennisplatform ontwikkeld. Op het moment dat er in het kennisplatform consensus was over de kwaliteit van de standaard en de wenselijkheid deze via het &#39;pas toe of leg uit&#39; -principe normatief te laten verklaren is de standaard voorgedragen aan Forum Standaardisatie voor het verkrijgen van de voor overheden verplichte &#39;pas toe of leg uit&#39; status en heeft Logius het beheer van dit normatieve deel op zich genomen.  
+De API Standaarden komen voort uit de Nederlandse API Strategie die beheerd wordt door het Kennisplatform API's en zijn veelal door het kennisplatform ontwikkeld. Op het moment dat er in het kennisplatform consensus was over de kwaliteit van de standaard en de wenselijkheid deze via het 'pas toe of leg uit' -principe normatief te laten verklaren is de standaard voorgedragen aan Forum Standaardisatie voor het verkrijgen van de voor overheden verplichte 'pas toe of leg uit' status en heeft Logius het beheer van dit normatieve deel op zich genomen.  
 
-Het kennisplatform API&#39;s blijft via haar werkgroepen actief met API Standaarden, maar richt zich primair op de ontwikkeling van nieuwe modules. Deze modules zijn bovendien (nog) niet normatief van aard. Logius heeft bij het beheer van de API Standaarden nauw contact met het kennisplatform om zo te borgen dat wensen en issues m.b.t. de API Standaarden bij beide partijen helder zijn en hier gezamenlijk de beste aanpak voor gekozen kan worden. (Zie ook [[[#operationeel]]]).  
+Het kennisplatform API's blijft via haar werkgroepen actief met API Standaarden, maar richt zich primair op de ontwikkeling van nieuwe modules. Deze modules zijn bovendien (nog) niet normatief van aard. Logius heeft bij het beheer van de API Standaarden nauw contact met het kennisplatform om zo te borgen dat wensen en issues m.b.t. de API Standaarden bij beide partijen helder zijn en hier gezamenlijk de beste aanpak voor gekozen kan worden. (Zie ook [[[#operationeel]]]).  
 
 ### Nederlandse Overheid Referentie Architectuur (NORA)  
 
 De API Standaarden volgen de principes van de Nederlandse Overheid Referentie Architectuur. Zie voor meer informatie: [https://www.noraonline.nl/wiki/NORA\_online](https://www.noraonline.nl/wiki/NORA_online)  
 
-In de NORA is sinds 2017 het Thema API&#39;s opgenomen en beschreven. De NORA beschrijft met name wat een API is en waarom API&#39;s belangrijk zijn. Ook zijn er op de site aanbevelingen voor API&#39;s in de Enterprise Architectuur en de toepassing van API&#39;s in het ontwerp van een dienst.
+In de NORA is sinds 2017 het Thema API's opgenomen en beschreven. De NORA beschrijft met name wat een API is en waarom API's belangrijk zijn. Ook zijn er op de site aanbevelingen voor API's in de Enterprise Architectuur en de toepassing van API's in het ontwerp van een dienst.
 
 ## Rechtenbeleid
 
@@ -87,4 +87,4 @@ Zoals gezegd wordt het beheer van de API Standaarden volledig open ingevuld (zie
 
 ## Adoptie en erkenning  
 
-De meerderheid van de API Standaarden hebben de &#39;pas toe of leg uit&#39; -status van Forum Standaardisatie. Dit betekent kort gezegd dat Nederlandse overheidspartijen en partijen uit de (semi) publieke sector deze standaarden dienen toe te passen op het moment dat zij hun informatie met behulp van API&#39;s willen ontsluiten. Zie hoofdstuk 1 voor meer informatie.
+De meerderheid van de API Standaarden hebben de 'pas toe of leg uit' -status van Forum Standaardisatie. Dit betekent kort gezegd dat Nederlandse overheidspartijen en partijen uit de (semi) publieke sector deze standaarden dienen toe te passen op het moment dat zij hun informatie met behulp van API's willen ontsluiten. Zie hoofdstuk 1 voor meer informatie.
