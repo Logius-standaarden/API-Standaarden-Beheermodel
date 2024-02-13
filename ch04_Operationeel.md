@@ -2,15 +2,8 @@
 
 Operationeel beheer omvat volgens BOMOS het tekstuele beheer van de documentatie, het verzamelen van eisen en wensen en de vertaling daarvan naar wijzigingsvoorstellen. Verder omvat het operationele proces de besluitvorming en het versie- of release-beheer.
 
-<<<<<<< HEAD
 Het operationele wijzigingsproces is ingericht op Github. De omgeving die we ook gebruiken voor het beheer en de publicatie van de documentatie. In dit hoofdstuk wordt het operationele wijzigingsproces op hoofdlijnen
-beschreven. Voor details van de implementatie verwijzen we naar de [bijlage over gebruik Github in het beheerproces](#bijlage-gebruik-github-in-het-beheerproces)
-=======
-Het operationele wijzigingsproces is ingericht op Github. De omgeving
-die we ook gebruiken voor het beheer en de publicatie van de documentatie.
-In dit hoofdstuk wordt het operationele wijzigingsproces op hoofdlijnen
-beschreven. Voor details van de implementatie verwijzen we naar [[[#gebruik-github-in-het-beheerproces]]].
->>>>>>> e0e4dda8cd45ef241fa02dfe546a3b60a1cec409
+beschreven. Voor details van de implementatie verwijzen we naar [[[#gebruik-github-in-het-beheerproces]]]
 
 ## Initiatie
 
@@ -80,6 +73,7 @@ Een patch is een zeer kleine wijziging die geen impact heeft op de implementatie
 De API Standaard zullen gezamenlijk en afzonderlijk onderhevig zijn aan beheer en onderhoud wat leidt tot nieuwe releases. Het vaststellen van nieuwe releases vindt plaats binnen het releaseplanningsproces. Het tactisch overleg is verantwoordelijk voor de juiste uitvoering. Hier komen alle belanghebbenden met verantwoordelijkheid voor de behoefte, effecten en impact op de bedrijfsvoering, informatievoorziening en ICT samen.
 
 Voor nieuwe releases wordt uitgegaan van een aantal principes:
+
 1. De standaard dient in principe zo stabiel te zijn dat
    nieuwe releases van de standaard bestaande implementaties van een
    oudere release niet tot migratie verplichten.
@@ -100,24 +94,17 @@ Voor nieuwe releases wordt uitgegaan van een aantal principes:
    vast in het releaseplanningsproces.
 7. Bij het vaststellen van een nieuwe release kan het strategisch overleg
    uitspraken doen over het ondersteunen van oude releases.
-9. Maximaal kunnen twee (opéénvolgende) releases van een API Standaard
+8. Maximaal kunnen twee (opéénvolgende) releases van een API Standaard
     gelijktijdig de status „In Gebruik‟ hebben.
-10. Op het moment dat het functionele toepassingsgebied van
+9. Op het moment dat het functionele toepassingsgebied van
     een API Standaard, waarvoor het pas-toe-of-leg-uit-regime geldt
     wijzigt, wordt dit voorgelegd aan Forum Standaardisatie en het
     OBDO zodat het regime kan worden bekrachtigd voor dit nieuwe
     toepassingsgebied.
 
 ### Impact van wijzigingen en versienummering
-<<<<<<< HEAD
-=======
-Afhankelijk van de impact van een wijziging of patch krijgt een release
-een nieuwsversienummer. Het versienummerbeheer volgt principes voor
-semantische versienummering
-[en is beschreven in een bijlage](#versienummering)
->>>>>>> e0e4dda8cd45ef241fa02dfe546a3b60a1cec409
 
-Afhankelijk van de impact van een wijziging of patch krijgt een release een nieuw versienummer. Het versienummerbeheer volgt principes voor semantische versienummering [en is beschreven in een bijlage](#bijlage-versie-nummering-logius-standaarden)
+Afhankelijk van de impact van een wijziging of patch krijgt een release een nieuw versienummer. Het versienummerbeheer volgt principes voor semantische versienummering [en is beschreven in een bijlage](#versienummering)
 
 De beheerorganisatie schat op basis van de wijziging of patch in welk nieuw versienummer noodzakelijk is.
 
