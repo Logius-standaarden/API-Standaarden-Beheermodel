@@ -77,7 +77,7 @@ Voor nieuwe releases wordt uitgegaan van een aantal principes:
 1. De standaard dient in principe zo stabiel te zijn dat
    nieuwe releases van de standaard bestaande implementaties van een
    oudere release niet tot migratie verplichten.
-2. De standaarde wordt streefd ernaar om interoperabel (engels: backwards compatible) te zijn met voorgaande releases
+2. De standaard streeft ernaar om interoperabel (engels: backwards compatible) te zijn met voorgaande releases
    (interoperabele verandering).
    Bij wijzigingen waarin ook dit niet mogelijk is, vindt een expliciete
    afweging plaats van de geboden verbetering ten opzichte van het belang
