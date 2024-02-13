@@ -2,46 +2,32 @@
 
 Operationeel beheer omvat volgens BOMOS het tekstuele beheer van de documentatie, het verzamelen van eisen en wensen en de vertaling daarvan naar wijzigingsvoorstellen. Verder omvat het operationele proces de besluitvorming en het versie- of release-beheer.
 
-Het operationele wijzigingsproces is ingericht op Github. De omgeving die we ook gebruiken voor het beheer en de publicatie van de documentatie. In dit hoofdstuk wordt het operationele wijzigingsproces op hoofdlijnen
-beschreven. Voor details van de implementatie verwijzen we naar [[[#gebruik-github-in-het-beheerproces]]]
+Het operationele wijzigingsproces is ingericht op Github. De omgeving die we ook gebruiken voor het beheer en de publicatie van de documentatie. In dit hoofdstuk wordt het operationele wijzigingsproces op hoofdlijnen beschreven. Voor details van de implementatie verwijzen we naar [[[#gebruik-github-in-het-beheerproces]]]
 
 ## Initiatie
 
-Toevoegingen aan de API Standaarden zoals het toevoegen van een nieuwe module worden behandeld als in introductie van een nieuwe standaard.
+Toevoegingen aan de API Standaarden zoals het toevoegen van een nieuwe module worden behandeld als introductie van een nieuwe standaard.
 
-1. Uitbreidingen en aanpassingen in de standaarden in beheer bij Logius
-    komen tot stand door participatie van de verschillende belanghebbenden.
+1. Uitbreidingen en aanpassingen in de standaarden in beheer bij Logius komen tot stand door participatie van de verschillende belanghebbenden.
 2. Belanghebbenden kunnen op verschillende manieren participeren.
     1. op persoonlijke titel (het proces is volledig open)
     2. als lid van de Community
-    3. als lid van één van de overleggen: het Technisch Overleg,
-       de Programmeringstafel Gegevensuitwisseling of het OBDO.
+    3. als lid van één van de overleggen: het Technisch Overleg, de Programmeringstafel Gegevensuitwisseling of het OBDO.
 
 ## Wensen en Eisen
 
-Wensen en eisen zijn aanpassingen op de bestaande API standaarden.
-Wijzigingsvoorstellen kunnen binnen komen via verschillende kanalen:
+Wensen en eisen zijn aanpassingen op de bestaande API standaarden. Wijzigingsvoorstellen kunnen binnen komen via verschillende kanalen:
 
-1. Rechtstreeks bij de beheerorganisatie, tijdens overleggen, via de website
-   of mail
-2. Bij de werkgroepoverleggen van de standaard en tijdens overleggen, via de
-   website of mail
+1. Rechtstreeks bij de beheerorganisatie, tijdens overleggen, via de website of mail
+2. Bij de werkgroepoverleggen van de standaard en tijdens overleggen, via de website of mail
 
 ## Uitvoering en ontwikkeling (Wijzigingsproces)
 
-Afhankelijk van de impact van een wijziging kan deze aangemerkt worden als
-een _patch_. Een patch is een kleine (tekstuele) wijziging die geen impact
-heeft op implementaties.
+Afhankelijk van de impact van een wijziging kan deze aangemerkt worden als een _patch_. Een patch is een kleine (tekstuele) wijziging die geen impact heeft op implementaties.
 
-Een _wijziging_ is een aanpassing met impact op de werking of het proces van
-de API standaard. Waarbij nog een onderscheid gemaakt wordt tussen
-wijzigingen met kleine en met grote impact.
+Een _wijziging_ is een aanpassing met impact op de werking of het proces van de API standaard. Waarbij nog een onderscheid gemaakt wordt tussen wijzigingen met kleine en met grote impact.
 
-Patches en wijzigingen worden verzameld in een _release_. Een release is een
-nieuwe versie van de API standaard. Nieuwe releases worden regelmatig
-doorgevoerd en moeten worden goedgekeurd door het Technisch Overleg en,
-afhankelijk van de impact van een nieuwe release door een programmeringstafel.
-Een nieuwe release wordt bekrachtigd door het besluitvormend overleg.
+Patches en wijzigingen worden verzameld in een _release_. Een release is een nieuwe versie van de API standaard. Nieuwe releases worden regelmatig doorgevoerd en moeten worden goedgekeurd door het Technisch Overleg en, afhankelijk van de impact van een nieuwe release door een programmeringstafel. Een nieuwe release wordt bekrachtigd door het besluitvormend overleg.
 
 ### Wijzigingen
 
@@ -119,7 +105,7 @@ De beheerorganisatie schat op basis van de wijziging of patch in welk nieuw vers
 
 ## Documentatie
 
-Alle documenten m.b.t. de API standaarden en het beheer van de standaarden worden openbaar en zonder drempels voor gebruik, gepubliceerd op [logius.nl](https://www.logius.nl/domeinen/gegevensuitwisseling/api-standaarden) en onze [Github pagina&#39;s](https://github.com/Logius-standaarden). Logius publiceert tenminste de volgende documenten:
+Alle documenten m.b.t. de API standaarden en het beheer van de standaarden worden openbaar en zonder drempels voor gebruik, gepubliceerd op [logius.nl](https://www.logius.nl/domeinen/gegevensuitwisseling/api-standaarden) en onze [Github pagina's](https://github.com/Logius-standaarden). Logius publiceert tenminste de volgende documenten:
 
 - Dit API Standaarden beheermodel
 - De vergaderstukken van het Technisch overleg en overige besluitvormende gremia.
