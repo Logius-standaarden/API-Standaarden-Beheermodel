@@ -10,7 +10,7 @@ gekopieerd naar een publicatiewebsite onder Logiusbeheer.
 ## Wijzigingsvoorstellen
 Het proces zoals beschreven onder
 [operationeel beheer, wensen en eisen](#wensen-en-eisen)
-wordt voor de Logius standarden geïmplementeerd door gebruik te maken
+wordt voor de Logius standaarden geïmplementeerd door gebruik te maken
 van _GitHub issues_. Een _issue_ kan binnen GitHub ingediend worden
 door iedere (GitHub)gebruiker en wordt bij ontwikkeling van code
 gebruikt om functionele wensen of gevonden bugs in te dienen zodat
