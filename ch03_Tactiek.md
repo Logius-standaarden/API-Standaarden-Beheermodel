@@ -70,7 +70,7 @@ http://creativecommons.org/licenses/by/4.0/deed.nl en de volledige
 licentietekst onder
 http://creativecommons.org/licenses/by/4.0/legalcode.
 
-Dit werk en de specificaties van de de API Standaarden worden
+Dit werk en de specificaties van de API Standaarden worden
 royalty free ter beschikking gesteld. Organisaties en personen die
 bijdragen aan de API Standaarden dienen hun bijdragen vrij te geven zodanig
 dat hieraan voldaan kan worden. Door bij te dragen aan de API Standaarden
