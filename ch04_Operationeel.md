@@ -2,8 +2,15 @@
 
 Operationeel beheer omvat volgens BOMOS het tekstuele beheer van de documentatie, het verzamelen van eisen en wensen en de vertaling daarvan naar wijzigingsvoorstellen. Verder omvat het operationele proces de besluitvorming en het versie- of release-beheer.
 
+<<<<<<< HEAD
 Het operationele wijzigingsproces is ingericht op Github. De omgeving die we ook gebruiken voor het beheer en de publicatie van de documentatie. In dit hoofdstuk wordt het operationele wijzigingsproces op hoofdlijnen
 beschreven. Voor details van de implementatie verwijzen we naar de [bijlage over gebruik Github in het beheerproces](#bijlage-gebruik-github-in-het-beheerproces)
+=======
+Het operationele wijzigingsproces is ingericht op Github. De omgeving
+die we ook gebruiken voor het beheer en de publicatie van de documentatie.
+In dit hoofdstuk wordt het operationele wijzigingsproces op hoofdlijnen
+beschreven. Voor details van de implementatie verwijzen we naar [[[#gebruik-github-in-het-beheerproces]]].
+>>>>>>> e0e4dda8cd45ef241fa02dfe546a3b60a1cec409
 
 ## Initiatie
 
@@ -102,6 +109,13 @@ Voor nieuwe releases wordt uitgegaan van een aantal principes:
     toepassingsgebied.
 
 ### Impact van wijzigingen en versienummering
+<<<<<<< HEAD
+=======
+Afhankelijk van de impact van een wijziging of patch krijgt een release
+een nieuwsversienummer. Het versienummerbeheer volgt principes voor
+semantische versienummering
+[en is beschreven in een bijlage](#versienummering)
+>>>>>>> e0e4dda8cd45ef241fa02dfe546a3b60a1cec409
 
 Afhankelijk van de impact van een wijziging of patch krijgt een release een nieuw versienummer. Het versienummerbeheer volgt principes voor semantische versienummering [en is beschreven in een bijlage](#bijlage-versie-nummering-logius-standaarden)
 
