@@ -1,5 +1,6 @@
 # Gebruik ReSpec
-Voor publicatie van de standaarden die bij Logius en beheer zijn wordt
+
+Voor publicatie van de standaarden die bij Logius in beheer zijn wordt
 gebruik gemaakt van ReSpec. ReSpec is een applicatie om technische
 documentatie te maken die publiceerbaar is op het net en gemakkelijk
 kan worden geïndexeerd door zoekmachines om de documentatie vindbaar
@@ -13,31 +14,22 @@ ReSpec combineert een serie input files tot één documentatiedocument
 in HTML met een duidelijke inhoudsopgave en kruisverwijzingen naar de
 verschillende secties en figuren.
 
-ReSpec is ontwikkeld door een werkgroep van W3C en wordt actief
-doorontwikkeld.
+ReSpec is ontwikkeld door een werkgroep van W3C en wordt actief doorontwikkeld. Meer informatie is gepubliceerd op [respec.org](https://respec.org/docs/).
 
 ## Logius profiel
-[Logius heeft een eigen profiel gemaakt op ReSpec](https://github.com/Logius-standaarden/respec) om Logius
-organisatiespecifieke zaken, zoals layout, te ondersteunen.
-Wijzigingen in de W3C versie worden regelmatig doorgevoerd
-in de Logius versie.
 
-De Logius ReSpec versie is zo algemeen mogelijk gemaakt zodat
-deze door andere overheden in Nederland eenvoudig toegepast kan
-worden. In de Logius versie gebruiken we zoveel mogelijk input
-in Markdown formaat.
+[Logius heeft een eigen profiel gemaakt op ReSpec](https://github.com/Logius-standaarden/respec) om Logius organisatiespecifieke zaken, zoals layout, te ondersteunen. Wijzigingen in de W3C versie worden regelmatig doorgevoerd in de Logius versie.
+
+De Logius ReSpec versie is zo algemeen mogelijk gemaakt zodat deze door andere overheden in Nederland eenvoudig toegepast kan worden. In de Logius versie gebruiken we zoveel mogelijk input in Markdown formaat.
 
 ## Literatuurverwijzingen
-ReSpec maakt gebruik van de online [Specref](https://www.specref.org/)
-database van Literatuurverwijzingen. Deze database bevat referenties
-naar, onder andere, referenties voor de W3C documentatie.
 
-Voor Nederlandse documenten die niet in Specref staan maken we gebruik
-van een standaard literatuurlijst die voor alle documenten gebruikt
-kan worden en die apart beheerd wordt. Het beheer is onder meer nodig
-om links naar online documentatie bij te houden.
+ReSpec maakt gebruik van de online [Specref](https://www.specref.org/) database van Literatuurverwijzingen. Deze database bevat referenties naar, onder andere, referenties voor de W3C documentatie.
+
+Voor Nederlandse documenten die niet in Specref staan maken we gebruik van een standaard literatuurlijst die voor alle documenten gebruikt kan worden en die apart beheerd wordt. Het beheer is onder meer nodig om links naar online documentatie bij te houden.
 
 ## Links
+
 - [Markdown documentatie](https://www.markdownguide.org/)
 - [ReSpec documentatie](https://respec.org/docs/)
 - [Respec wiki op de repository van W3C](https://github.com/w3c/respec/wiki)
