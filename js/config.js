@@ -34,6 +34,7 @@ var respecConfig = {
   pubDomain: "api",
   publishDate: "2024-02-02",
   publishVersion: "1.0",
+  previousPublishVersion: "1.0",
   shortName: "APIBeheermodel",
   specStatus: "WV",
   specType: "HR"
