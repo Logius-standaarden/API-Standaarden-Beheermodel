@@ -29,13 +29,11 @@ var respecConfig = {
         "name" : "Peter Haasnoot"
       } ],
   github: "https://github.com/Logius-standaarden/API-Standaarden-Beheermodel",
-  nl_markdownCodeClass: "code",
-  nl_markdownTableClass: "dkkvs",
   pubDomain: "api",
   publishDate: "2024-02-02",
   publishVersion: "1.0",
   previousPublishVersion: "1.0",
-  shortName: "APIBeheermodel",
+  shortName: "beheermodel",
   specStatus: "WV",
   specType: "HR"
 };
