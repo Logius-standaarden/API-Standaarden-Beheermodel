@@ -2,7 +2,7 @@
 
 ## Opleiding en advies
 
-Logius biedt momenteel geen opleiding aan, maar borgt dat de informatie m.b.t. de standaard altijd, zonder drempels, toegankelijk is. Bovendien kunnen geïnteresseerden via verschillende kanalen contact opnemen met Logius in geval van vragen of opmerkingen. Zie hiervoor 5.2 Helpdesk.  
+Logius biedt momenteel geen opleiding aan, maar borgt dat de informatie m.b.t. de standaard altijd, zonder drempels, toegankelijk is. Bovendien kunnen geïnteresseerden via verschillende kanalen contact opnemen met Logius in geval van vragen of opmerkingen. Zie hiervoor [[[#helpdesk]]].  
 Aanvullend organiseert Kennisplatform API&#39;s regelmatig overleggen en seminars m.b.t. de Nederlandse API Strategie waar de ADR-standaard een onderdeel van is. Zie hiervoor [www.apigov.nl](http://www.apigov.nl/).
 
 ## Helpdesk

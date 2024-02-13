@@ -8,8 +8,7 @@ besluitvorming en het versie- of release-beheer
 Het operationele wijzigingsproces is ingericht op Github. De omgeving
 die we ook gebruiken voor het beheer en de publicatie van de documentatie.
 In dit hoofdstuk wordt het operationele wijzigingsproces op hoofdlijnen
-beschreven. Voor details van de implementatie verwijzen we naar de
-[bijlage over gebruik Github in het beheerproces](#bijlage-gebruik-github-in-het-beheerproces)
+beschreven. Voor details van de implementatie verwijzen we naar [[[#gebruik-github-in-het-beheerproces]]].
 
 ## Initiatie
 
@@ -139,7 +138,7 @@ Voor nieuwe releases wordt uitgegaan van een aantal principes:
 Afhankelijk van de impact van een wijziging of patch krijgt een release
 een nieuwsversienummer. Het versienummerbeheer volgt principes voor
 semantische versienummering
-[en is beschreven in een bijlage](#bijlage-versie-nummering-logius-standaarden)
+[en is beschreven in een bijlage](#versienummering)
 
 De impact van een wijziging kan verschillen per koppelvlakspecificatie. Voor de
 standaarden die deel uitmaken van Digikoppeling hebben we de volgende _impactmatrix_ opgesteld:

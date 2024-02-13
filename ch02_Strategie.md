@@ -131,7 +131,7 @@ van het OBDO (ministerie van BZK) de beslissende stem.
 Voor wijzigingen met zeer kleine impact (tekst correcties) wordt de
 beheerorganisatie gemandateerd. De beheerorganisatie mag deze wijzigingen
 zelf doorvoeren zonder formele beslissing door het besluitvormend overleg.
-In de [versienummering](#bijlage-versie-nummering-logius-standaarden) worden
+In de [versienummering](#versienummering) worden
 deze zeer kleine wijzigingen aangeduid als _patch releases_. Voor andere
 wijzigingen is een besluit van het PGDI nodig (op basis van advies van
 de Programmeringstafel en de beheerorganisatie). Het OBDO wordt geïnformeerd

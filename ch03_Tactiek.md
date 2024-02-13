@@ -9,7 +9,7 @@ kunnen alle informatie m.b.t. de standaard en het beheer daarvan
 inzien via de website en via verschillende kanalen issues of RFC's
 melden. Daarnaast kunnen community leden reageren op openbare
 consultaties en onder bepaalde voorwaarden deelnemen aan de Technische
-Architectuur Groep (zie paragraaf [deelname](#deelname)).
+Architectuur Groep (zie [[[#deelname]]]).
 
 ## Architectuur
 
@@ -48,7 +48,7 @@ Kennisplatform API&#39;s is een initiatief van Geonovum, Bureau Forum Standaardi
 
 De API Standaarden komen voort uit de Nederlandse API Strategie die beheerd wordt door het Kennisplatform API&#39;s en zijn veelal door het kennisplatform ontwikkeld. Op het moment dat er in het kennisplatform consensus was over de kwaliteit van de standaard en de wenselijkheid deze via het &#39;pas toe of leg uit&#39; -principe normatief te laten verklaren is de standaard voorgedragen aan Forum Standaardisatie voor het verkrijgen van de voor overheden verplichte &#39;pas toe of leg uit&#39; status en heeft Logius het beheer van dit normatieve deel op zich genomen.  
 
-Het kennisplatform API&#39;s blijft via haar werkgroepen actief met API Standaarden, maar richt zich primair op de ontwikkeling van nieuwe modules. Deze modules zijn bovendien (nog) niet normatief van aard. Logius heeft bij het beheer van de API Standaarden nauw contact met het kennisplatform om zo te borgen dat wensen en issues m.b.t. de API Standaarden bij beide partijen helder zijn en hier gezamenlijk de beste aanpak voor gekozen kan worden. (Zie ook h4).  
+Het kennisplatform API&#39;s blijft via haar werkgroepen actief met API Standaarden, maar richt zich primair op de ontwikkeling van nieuwe modules. Deze modules zijn bovendien (nog) niet normatief van aard. Logius heeft bij het beheer van de API Standaarden nauw contact met het kennisplatform om zo te borgen dat wensen en issues m.b.t. de API Standaarden bij beide partijen helder zijn en hier gezamenlijk de beste aanpak voor gekozen kan worden. (Zie ook [[[#operationeel]]]).  
 
 ### Nederlandse Overheid Referentie Architectuur (NORA)  
 
@@ -83,8 +83,8 @@ profielen en andere onderdelen zelf van toepassing.
 
 ## Kwaliteitsbeleid en benchmarking  
 
-Zoals gezegd wordt het beheer van de API Standaarden volledig open ingevuld (zie ook de paragraaf [Bomos](#bomos) en [Governance](#governance)) Dit borgt dat zoveel mogelijk belangstellenden en belanghebbenden betrokken zijn bij wijzigingen en besluitvorming over wijzigingen.
+Zoals gezegd wordt het beheer van de API Standaarden volledig open ingevuld (zie ook [[[#bomos]]] en [[[#governance]]]) Dit borgt dat zoveel mogelijk belangstellenden en belanghebbenden betrokken zijn bij wijzigingen en besluitvorming over wijzigingen.
 
 ## Adoptie en erkenning  
 
-De meerder heid van de API Standaarden hebben de &#39;pas toe of leg uit&#39; -status van Forum Standaardisatie. Dit betekent kort gezegd dat Nederlandse overheidspartijen en partijen uit de (semi) publieke sector deze standaarden dienen toe te passen op het moment dat zij hun informatie met behulp van API&#39;s willen ontsluiten. Zie hoofdstuk 1 voor meer informatie.
+De meerderheid van de API Standaarden hebben de &#39;pas toe of leg uit&#39; -status van Forum Standaardisatie. Dit betekent kort gezegd dat Nederlandse overheidspartijen en partijen uit de (semi) publieke sector deze standaarden dienen toe te passen op het moment dat zij hun informatie met behulp van API&#39;s willen ontsluiten. Zie hoofdstuk 1 voor meer informatie.
