@@ -23,7 +23,7 @@ Het begrip API Standaarden is een verzameling van meerdere standaarden. We verst
 De API standaarden omvatten een sets van normatieve afspraken voor het structureren, beveiligen, autoriseren, identificeren en documenteren.
 De standaarden hebben tot doel om betere, uniforme en ontwikkelaar vriendelijke API’s te ontwikkelen die
 makkelijk te implementeren zijn. De sets van afspraken bestaan uit breed toepasbare en ondubbelzinnige richtlijnen.
-Deze helpen organisaties die nieuwe API’s ontwikkelen voor Nederlandse overheden (Rijk, provincies, gemeenten en waterschappen) en instellingen uit de (semi-) publieke sector. In ondertsaande tabel zijn alle actuele links opgenomen naar alle bronnen van de standaarden:
+Deze helpen organisaties die nieuwe API’s ontwikkelen voor Nederlandse overheden (Rijk, provincies, gemeenten en waterschappen) en instellingen uit de (semi-) publieke sector. In onderstaande tabel zijn alle actuele links opgenomen naar alle bronnen van de standaarden:
 
 | Formele standaard                                            | Gepubliceerde versie                                         | Werk versie                                                  | Repository                                                   |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
