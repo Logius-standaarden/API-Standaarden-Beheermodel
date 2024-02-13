@@ -1,7 +1,7 @@
 # Strategie
 
 De strategische activiteiten van BOMOS bestaan uit de onderdelen
-Visie, Govenance en Financiering. Deze onderdelen en hun toepassing op
+Visie, Governance en Financiering. Deze onderdelen en hun toepassing op
 het beheer van de API Standaarden worden hieronder beschreven.
 
 ## Visie
@@ -10,7 +10,7 @@ Met de API Standaarden wil de Nederlandse overheid interoperabiliteit bevorderen
 Dit maakt uiteindelijk dat componenten en systemen onderling effectief gegevens uit kunnen wisselen. Zowel horizontaal in één voorziening binnen één situatie als verticaal tussen voorzieningen in verschillende situaties en tussen organisaties.
 Deze doelstelling wordt onderschreven door een breed scala aan partijen die deelnemen aan het API Kennisplatform, waar de ontwikkeling van de standaard zijn oorsprong heeft. 
 
-De API Standaarden worden bestendigd door het Forum Standaardisatie en het OverheidsBrede Beleidsoverhed Digitale Overheid (OBDO), die meerdere API Standaarden al hebben opgenomen op de zogenaamde ‘pas toe of leg uit’-lijst met standaarden die interoperabiliteit bevorderen [<span class="underline">zie ook de basisinformatie van het Forum Standaardisatie</span>](https://www.forumstandaardisatie.nl/basisinformatie).
+De API Standaarden worden bestendigd door het Forum Standaardisatie en het Overheidsbrede Beleidsoverleg Digitale Overheid (OBDO), die meerdere API Standaarden al hebben opgenomen op de zogenaamde ‘pas toe of leg uit’-lijst met standaarden die interoperabiliteit bevorderen [<span class="underline">zie ook de basisinformatie van het Forum Standaardisatie</span>](https://www.forumstandaardisatie.nl/basisinformatie).
 
 De toetsingsprocedure voor opname van een standaard op de _pas toe of leg uit_ -lijst bestaat uit de volgende stappen:
 
@@ -121,7 +121,7 @@ De Architectuurraad GDI van de MIDO governance maakt geen deel uit van het behee
 
 Besluitvorming over wijzigingsvoorstellen kan plaatsvinden op verschillende niveaus.
 
-In alle overleggremia vindt oordeelorming plaats op basis van
+In alle overleggremia vindt oordeelvorming plaats op basis van
 consensus. Mocht consensus niet mogelijk zijn, dan gaat het vraagstuk
 met een weergave van de verschillende standpunten door naar het
 eerstvolgend-hoger gelegen-gremium. Indien in het hoogste gremium
