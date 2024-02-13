@@ -12,6 +12,7 @@ beschreven. Voor details van de implementatie verwijzen we naar de
 [bijlage over gebruik Github in het beheerproces](#bijlage-gebruik-github-in-het-beheerproces)
 
 ## Initiatie
+
 Toevoegingen aan de standaard zoals het toevoegen van een nieuwe
 koppelvlakspecificatie worden behandeld als in introductie van een nieuwe
 standaard.
@@ -26,6 +27,7 @@ standaard.
        de Programmeringstafel Gegevensuitwisseling of het OBDO.
 
 ## Wensen en Eisen
+
 Wensen en eisen zijn aanpassingen op de bestaande standaarden en
 koppelvlakspecificaties.
 
