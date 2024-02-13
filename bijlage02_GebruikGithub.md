@@ -25,7 +25,7 @@ van een document. De _develop_ branch bevat een werkversie met daarin alle
 wijzigingen die in een volgende geaccepteerde versie opgenomen moeten
 worden.
 
-Aanpassingen in de documentatie die voor een specifiek wijzingsvoorstel
+Aanpassingen in de documentatie die voor een specifiek wijzigingsvoorstel
 gemaakt worden worden in eigen branch verwerkt. Deze branch wordt gesplitst vanaf de _develop_ branch en wordt nadat het wijzigingsverzoek aangenomen
 is teruggebracht naar de _develop_ branch. Voorbeeld: een wijzigingsverzoek
 voor het aanpassen van de architectuurbeschrijving zal in een branche _nieuwe architectuur_ worden verwerkt. Deze wordt gesplitst vanaf, en
