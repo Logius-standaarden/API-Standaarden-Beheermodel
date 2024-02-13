@@ -1,4 +1,4 @@
-# Bijlage: Gebruik ReSpec
+# Gebruik ReSpec
 Voor publicatie van de standaarden die bij Logius en beheer zijn wordt
 gebruik gemaakt van ReSpec. ReSpec is een applicatie om technische
 documentatie te maken die publiceerbaar is op het net en gemakkelijk

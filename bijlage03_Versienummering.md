@@ -1,4 +1,4 @@
-# Bijlage: versie-nummering Logius standaarden
+# Versienummering
 Deze bijlage beschrijft de versioneringsmethodiek ofwel de standaard manier om om te gaan met versienummers van de standaard. De versioneringsmethodiek is gelijk voor alle 'gepubliceerde standaarden' die onder beheer zijn van Logius (afdeling standaarden) en is gebaseerd op SemVer. SemVer staat voor Semantisch Versioneren en we gebruiken versie 2.0.0  van de standaard zoals [gepubliceerd in de specificatie van Semantisch Versioneren (SemVer)](https://semver.org/lang/nl/#semantisch-versioneren-200).
 
 Dat wil zeggen we kennen een bepaalde betekenis toe aan Major,Minor en Patch wijzigingen voor de standaarden zodanig dat de versienummers informatief zijn voor het type wijziging. 

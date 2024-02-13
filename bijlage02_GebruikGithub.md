@@ -1,4 +1,4 @@
-# Bijlage: Gebruik GitHub in het beheerproces
+# Gebruik GitHub in het beheerproces
 
 ## Publicatie
 GitHub biedt functionaliteit om documenten te publiceren vanuit een
@@ -49,7 +49,7 @@ issues als
 2. **Scope** Vooral relevant voor wijzigingsvoorstellen. Hiermee wordt
    aangegeven of het een kleine of grote wijziging betreft. Dit heeft
    betrekking op de impact van een wijziging en daarmee op de
-   [versienummering](#bijlage-versie-nummering-digikoppeling-standaarden).
+   [versienummering](#versienummering).
    1. Klein
    2. Groot
 3. **Overleg** Het label Overleg heeft alleen betrekking op wijzigingsvoorstellen.
