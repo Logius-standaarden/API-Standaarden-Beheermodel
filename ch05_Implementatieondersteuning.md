@@ -8,8 +8,7 @@ Aanvullend organiseert Kennisplatform API's regelmatig overleggen en seminars m.
 ## Helpdesk
 
 Logius biedt ondersteuning en advies via verschillende kanalen:
-- Online: als reactie op issue's in de Github van de standaard:<br>
-[Issues · Logius-standaarden (github.com)](https://github.com/Logius-standaarden/issues)
+- Online: als reactie op issue's in de GitHub van de standaard.
 - Per mail: [api@logius.nl](mailto:api@logius.nl)
 - Telefonisch: 0900 - 555 45 55
 - Per post: Logius, Postbus 96810; 2509 JE Den Haag, (t.a.v. CvS).
