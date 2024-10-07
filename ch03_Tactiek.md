@@ -14,7 +14,7 @@ Architectuur Groep (zie [[[#deelname]]]).
 ## Architectuur
 
 De API Standaarden zijn een op zichzelf staande standaarden en geen
-onderdeel van een bovenliggende standaard. Wel wordt er onderling tussen de standaarden en zijn er
+onderdeel van een bovenliggende standaard. Wel wordt er onderling verwezen tussen de standaarden en zijn er
 verwijzingen naar verschillende andere (internationale) standaarden.
 
 Een overzicht van alle API Standaarden is gepubliceerd in deze infographic:
