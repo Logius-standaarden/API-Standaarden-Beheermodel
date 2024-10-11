@@ -30,10 +30,10 @@ var respecConfig = {
       } ],
   github: "https://github.com/Logius-standaarden/API-Standaarden-Beheermodel",
   pubDomain: "api",
-  publishDate: "2024-02-02",
+  publishDate: "2024-03-07",
   publishVersion: "1.0",
   previousPublishVersion: "1.0",
   shortName: "beheermodel",
-  specStatus: "WV",
+  specStatus: "DEF",
   specType: "HR"
 };
