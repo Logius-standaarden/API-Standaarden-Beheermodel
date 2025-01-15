@@ -166,9 +166,8 @@ Logius de aanvraag.
 
 ## Financiering
 
-Het beheer van de API Standaarden wordt gefinancierd door min. BZK voor
-een initiële periode van tenminste drie jaar (2020-2023) om gebruikers
-het vertrouwen te geven dat er geen desinvesteringen worden gedaan bij
-het implementeren van de standaard. Na drie jaar wordt de financiering
-verlengd als blijkt dat het nut van en de behoefte aan de standaard
-nog aanwezig is.
+Het beheer van de API Standaarden werd initieel gefinancierd door min. BZK voor
+een periode van drie jaar (2020-2023) om gebruikers het vertrouwen te geven dat
+er geen desinvesteringen worden gedaan bij het implementeren van de standaarden.
+Na die drie jaar werd de financiering verlengd, aangezien het nut en de behoefte
+aan de standaarden was aangetoond.
