@@ -19,6 +19,24 @@ Voorbeeld: een wijzigingsverzoek voor het aanpassen van de architectuurbeschrijv
 
 De _develop_ branch wordt dus niet gebruikt om wijzigingen op het document te maken maar dient als verzamelbranch voor de verschillende wijzigingen die in een volgende release moeten komen. _Patches_ kunnen wel direct op de _develop_ branch worden doorgevoerd.
 
+### Commits
+
+Commit messages zijn voor maintainers en derden belangrijk om een (historisch) beeld te krijgen van de evolutie van een standaard.
+Om het onderscheid duidelijk te maken tussen normatieve en niet-normatieve wijzigingen, moeten commits met enkel niet-normatieve wijzigingen starten met _Editorial:_.
+Probeer ook zoveel mogelijk wijzigingen te groeperen in commits die enkel normatieve wijzigingen toepassen en commits die enkel niet-normatieve wijzigingen bevatten.
+Als deze worden gegroepeerd in (grote) commits, dan wordt het voor de lezer (en voornamelijk implementeerders) lastiger om te weten wat er in code moet worden veranderd om aan de standaard te voldoen.
+
+Voorbeeld van een commit met enkel niet-normatieve wijzigingen:
+
+   > Editorial: update copyright jaar
+
+Voorbeeld van een commit met enkel normatieve wijzigingen:
+
+   > Vereis dat alle URLs eindigen zonder een slash
+
+Normatieve wijzigingen moeten geen prefix hebben en duidelijk uitleggen waar de wijziging over gaat, met in acht nemen van de generiek (Engelse) [guide voor het schrijven van bruikbare commit messages](https://cbea.ms/git-commit/).
+In tegenstelling tot de gelinkte guide moeten commit messages in het Nederlands worden geschreven.
+
 ### Labels
 
 Om GitHub issues te classificeren en te agenderen voor het juiste overleg maken we gebruik van een aantal standaard labels. We labelen binnenkomende issues als:
