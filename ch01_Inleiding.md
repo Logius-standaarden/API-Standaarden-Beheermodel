@@ -56,7 +56,7 @@ Ontwikkelaars kunnen deze REST-API's bevragen vanuit de gangbare programmeertale
 
 De statussen van de verschillende API standaarden zijn in de standaarden zelf vastgelegd.
 Dit beheermodel is initieel goedgekeurd in het Technisch Overleg, waarna het beheermodel is ingediend bij Mido en Forum Standaardisatie in combinatie met het indienen van de ADR als standaard.
-Met het indienen van versie 2.0 van de ADR standaard zijn tevens de beheermodelen van ADR en oAuth (die hadden een apart beheermodel) samengevoegd met dit beheermodel.
+Met het indienen van versie 2.0 van de ADR standaard zijn tevens de beheermodelen van ADR en OAuth (die hadden een apart beheermodel) samengevoegd met dit beheermodel.
 Ook deze samenvoeging is goedgekeurd en de kopieën zijn daarom nu gearchiveerd.
 
 ## BOMOS
