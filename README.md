@@ -1,6 +1,4 @@
-# Concept voor het Generiek beheermodel voor de verzameling van API standaarden
-
-> Dit is een concept
+# Generiek beheermodel voor de verzameling van API standaarden
 
 De basis is het [BOMOS template beheermodel](https://github.com/Logius-standaarden/BOMOS-voorbeeld-beheermodel).
 Het is aangevuld met een aantal standaard bijlagen die vooral het operationele proces beschrijven (Respec, Github, SEMVER).
