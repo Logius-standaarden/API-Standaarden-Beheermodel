@@ -2,28 +2,24 @@ import { loadRespecWithConfiguration } from "https://logius-standaarden.github.i
 
 loadRespecWithConfiguration({
   authors: [{
-    "mailto": "Martin.plas@logius.nl",
     "name": "Martin van der Plas",
     "company": "Logius",
-    "companyURL": "https://logius.nl/standaarden"
+    "companyURL": "https://www.logius.nl"
   }],
-  editors: [{
-    "mailto": "api@logius.nl",
-    "name": "Logius Afdeling standaarden"
-  },
+  editors: [
   {
     "company": "Logius",
-    "companyURL": "https://logius.nl/standaarden",
+    "companyURL": "https://www.logius.nl",
     "name": "Alexander Green"
   },
   {
     "company": "Logius",
-    "companyURL": "https://logius.nl/standaarden",
+    "companyURL": "https://www.logius.nl",
     "name": "Edwin Wisse"
   },
   {
     "company": "Logius",
-    "companyURL": "https://logius.nl/standaarden",
+    "companyURL": "https://www.logius.nl",
     "name": "Peter Haasnoot"
   }],
   github: "https://github.com/Logius-standaarden/API-Standaarden-Beheermodel",
