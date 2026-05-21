@@ -7,8 +7,8 @@ Het is aangevuld met een aantal standaard bijlagen die vooral het operationele p
 
 Een overzicht van API standaarden waarvoor dit beheer model wordt opgezet:
 
-- NLGov REST API Design Rules
-- NLGov Profiel voor OAuth 2.0
-- NLGov OIDC profiel
-- Cloudevents
+- NLgov REST API Design Rules
+- NLgov Assurance profile for OAuth 2.0
+- NLgov Assurance profile for OpenID Connect 1.0
+- NLgov profile for CloudEvents
 - De normatieve modules van het Kennisplatform API's

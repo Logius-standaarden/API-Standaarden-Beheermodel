@@ -14,11 +14,11 @@ voor alle standaarden onder beheer bij Logius.
 
 Het begrip API Standaarden is een verzameling van meerdere standaarden. We verstaan hieronder op dit moment de volgende standaarden:
 
-- NLGov REST API Design Rules (In dit document wordt verder ADR gebruikt als afkorting).
-- NLGov API Strategie modules (In dit document wordt verder Modules gebruikt als afkorting).
-- NLGov Assurance profile for OAuth 2.0 (In dit document wordt verder OAuth-NL gebruikt als afkorting).
-- OpenID NLGov (In dit document wordt verder OIDC-NL gebruikt als afkorting).
-- NLGov profile for CloudEvents (In dit document wordt verder CloudEvents gebruikt als afkorting).
+- NLgov REST API Design Rules (In dit document wordt verder ADR gebruikt als afkorting).
+- NLgov API Strategie modules (In dit document wordt verder Modules gebruikt als afkorting).
+- NLgov Assurance profile for OAuth 2.0 (In dit document wordt verder OAuth-NL gebruikt als afkorting).
+- NLgov Assurance profile for OpenID Connect 1.0 (In dit document wordt verder OIDC-NL gebruikt als afkorting).
+- NLgov profile for CloudEvents (In dit document wordt verder CloudEvents gebruikt als afkorting).
 
 De API standaarden omvatten een sets van normatieve afspraken voor het structureren, beveiligen, autoriseren, identificeren en documenteren.
 De standaarden hebben tot doel om betere, uniforme en ontwikkelaar vriendelijke API’s te ontwikkelen die
@@ -27,11 +27,11 @@ Deze helpen organisaties die nieuwe API’s ontwikkelen voor Nederlandse overhed
 
 | Formele standaard                                            | Gepubliceerde versie                                         | Werk versie                                                  | Repository                                                   |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [NLGov API Design Rules (ADR)](https://forumstandaardisatie.nl/open-standaarden/rest-api-design-rules) | [2.1.0](https://gitdocumentatie.logius.nl/publicatie/api/adr/) | [2.2.0](https://logius-standaarden.github.io/API-Design-Rules/) | [API-Design-Rules](https://github.com/Logius-standaarden/API-Design-Rules) |
-| [NLGov OAuth 2.0 profile (OAuth)](https://forumstandaardisatie.nl/open-standaarden/nl-gov-assurance-profile-oauth-20) | [1.1.0](https://gitdocumentatie.logius.nl/publicatie/api/oauth/) | [1.2.0](https://logius-standaarden.github.io/OAuth-NL-profiel/) | [OAuth-NL-profiel](https://github.com/Logius-standaarden/OAuth-NL-profiel) |
-| [NLGov OpenID Connect profile (OIDC)](https://forumstandaardisatie.nl/open-standaarden/nl-gov-assurance-profile-oidc) | [1.0.1](https://gitdocumentatie.logius.nl/publicatie/api/oidc/) | [1.0.1](https://logius-standaarden.github.io/OIDC-NLGOV/) | [OIDC-NLGOV](https://github.com/Logius-standaarden/OIDC-NLGOV) |
+| [NLgov REST API Design Rules (ADR)](https://forumstandaardisatie.nl/open-standaarden/rest-api-design-rules) | [2.1.0](https://gitdocumentatie.logius.nl/publicatie/api/adr/) | [2.2.0](https://logius-standaarden.github.io/API-Design-Rules/) | [API-Design-Rules](https://github.com/Logius-standaarden/API-Design-Rules) |
+| [NLgov Assurance profile for OAuth 2.0 (OAuth)](https://forumstandaardisatie.nl/open-standaarden/nl-gov-assurance-profile-oauth-20) | [1.1.0](https://gitdocumentatie.logius.nl/publicatie/api/oauth/) | [1.2.0](https://logius-standaarden.github.io/OAuth-NL-profiel/) | [OAuth-NL-profiel](https://github.com/Logius-standaarden/OAuth-NL-profiel) |
+| [NLgov Assurance profile for OpenID Connect 1.0 (OIDC)](https://forumstandaardisatie.nl/open-standaarden/nl-gov-assurance-profile-oidc) | [1.0.1](https://gitdocumentatie.logius.nl/publicatie/api/oidc/) | [1.0.1](https://logius-standaarden.github.io/OIDC-NLGOV/) | [OIDC-NLGOV](https://github.com/Logius-standaarden/OIDC-NLGOV) |
 | Kennisplatform API's modulen|[Stabiele modules, 21 december 2023](https://github.com/Geonovum/KP-APIs/blob/master/README.md) | nvt | [Kennisplatform APIs](https://github.com/Geonovum/KP-APIs) |
-| [CloudEvents](https://www.forumstandaardisatie.nl/open-standaarden/nl-gov-profile-cloudevents) | [1.0](https://gitdocumentatie.logius.nl/publicatie/notificatieservices/cloudevents-nl/) | [1.1](https://logius-standaarden.github.io/NL-GOV-profile-for-CloudEvents/) | [NL-GOV-profile-for-CloudEvents](https://github.com/Logius-standaarden/NL-GOV-profile-for-CloudEvents) |
+| [NLgov profile for CloudEvents](https://www.forumstandaardisatie.nl/open-standaarden/nl-gov-profile-cloudevents) | [1.0](https://gitdocumentatie.logius.nl/publicatie/notificatieservices/cloudevents-nl/) | [1.1](https://logius-standaarden.github.io/NL-GOV-profile-for-CloudEvents/) | [NL-GOV-profile-for-CloudEvents](https://github.com/Logius-standaarden/NL-GOV-profile-for-CloudEvents) |
 | Logboek dataverwerkingen | Nog niet vastgesteld | [1.0.0](https://logius-standaarden.github.io/logboek-dataverwerkingen/) | [logboek-dataverwerkingen](https://github.com/Logius-standaarden/logboek-dataverwerkingen) |
 
 

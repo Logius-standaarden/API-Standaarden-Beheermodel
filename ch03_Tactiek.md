@@ -66,9 +66,9 @@ Unported licentie.
 Meer informatie over de precieze voorwaarden van deze licentie vindt u
 op de website van Creative Commons http://creativecommons.nl/ en
 specifiek voor deze licentie een samenvatting onder
-http://creativecommons.org/licenses/by/4.0/deed.nl en de volledige
+https://creativecommons.org/licenses/by/4.0/deed.en en de volledige
 licentietekst onder
-http://creativecommons.org/licenses/by/4.0/legalcode.
+https://creativecommons.org/licenses/by/4.0/legalcode.
 
 Dit werk en de specificaties van de API Standaarden worden
 royalty free ter beschikking gesteld. Organisaties en personen die
